@@ -1,0 +1,5 @@
+node_modules/
+auth.json/
+allure-reports/
+allure-results/
+test-results/
