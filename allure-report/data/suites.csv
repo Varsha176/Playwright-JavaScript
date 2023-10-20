@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 20 15:26:13 IST 2023","Fri Oct 20 15:26:33 IST 2023","19880","chromium","loginTest.spec.js","Test Suite","","","Add a candidate",""
+"passed","Fri Oct 20 15:26:04 IST 2023","Fri Oct 20 15:26:13 IST 2023","9569","chromium","loginTest.spec.js","Test Suite","","","Client App login",""
+"passed","Fri Oct 20 15:26:33 IST 2023","Fri Oct 20 15:26:46 IST 2023","13209","chromium","loginTest.spec.js","Test Suite","","","PIM Test",""
